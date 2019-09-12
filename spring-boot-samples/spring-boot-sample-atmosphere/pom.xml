@@ -19,9 +19,6 @@
 		    <maven.compiler.source>1.6</maven.compiler.source>
 		        <maven.compiler.target>1.6</maven.compiler.target>
 		</properties>
-	<properties>
-		<main.basedir>${basedir}/../..</main.basedir>
-	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
